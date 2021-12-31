@@ -1,6 +1,9 @@
-### Hi there 👋
+<p  align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=github-wuxi.github-wuxi" />
+</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=github-wuxi.github-wuxi)
+# 欢迎 👋
+
 
 
 <!--

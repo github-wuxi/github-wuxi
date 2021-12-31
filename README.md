@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github-wuxi.github-wuxi&left_color=green&right_color=red)
+
+
 <!--
 **github-wuxi/github-wuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
